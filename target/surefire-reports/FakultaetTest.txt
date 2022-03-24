@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: FakultaetTest
+-------------------------------------------------------------------------------
+Tests run: 4, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 0.015 s <<< FAILURE! - in FakultaetTest
+fact_I3_O6  Time elapsed: 0.004 s  <<< FAILURE!
+org.opentest4j.AssertionFailedError: expected: <7> but was: <6>
+	at FakultaetTest.fact_I3_O6(FakultaetTest.java:23)
+
