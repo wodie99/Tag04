@@ -20,7 +20,7 @@ class FakultaetTest {
 
     @Test
     void fact_I3_O6() {
-        assertEquals(6,Fakultaet.fact(3));
+        assertEquals(7,Fakultaet.fact(3));
     }
 
 }
